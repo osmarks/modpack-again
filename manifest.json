@@ -1,0 +1,479 @@
+{
+ "files": [
+  {
+   "desc": "thermal-foundation",
+   "fileID": 2669258,
+   "filename": "ThermalFoundation-1.12.2-2.6.2.26-universal.jar",
+   "projectID": 222880,
+   "required": true
+  },
+  {
+   "desc": "cofhcore",
+   "fileID": 2669253,
+   "filename": "CoFHCore-1.12.2-4.6.2.25-universal.jar",
+   "projectID": 69162,
+   "required": true
+  },
+  {
+   "desc": "redstone-flux",
+   "fileID": 2623090,
+   "filename": "RedstoneFlux-1.12-2.1.0.6-universal.jar",
+   "projectID": 270789,
+   "required": true
+  },
+  {
+   "desc": "cofh-world",
+   "fileID": 2623091,
+   "filename": "CoFHWorld-1.12.2-1.3.0.6-universal.jar",
+   "projectID": 271384,
+   "required": true
+  },
+  {
+   "desc": "thermal-dynamics",
+   "fileID": 2669256,
+   "filename": "ThermalDynamics-1.12.2-2.5.4.18-universal.jar",
+   "projectID": 227443,
+   "required": true
+  },
+  {
+   "desc": "codechicken-lib-1-8",
+   "fileID": 2618630,
+   "filename": "CodeChickenLib-1.12.2-3.2.2.353-universal.jar",
+   "projectID": 242818,
+   "required": true
+  },
+  {
+   "desc": "cc-tweaked",
+   "fileID": 2679513,
+   "filename": "cc-tweaked-1.12.2-1.81.1.jar",
+   "projectID": 282001,
+   "required": true
+  },
+  {
+   "desc": "applied-energistics-2",
+   "fileID": 2652453,
+   "filename": "appliedenergistics2-rv6-stable-6.jar",
+   "projectID": 223794,
+   "required": true
+  },
+  {
+   "desc": "tinkers-construct",
+   "fileID": 2662253,
+   "filename": "TConstruct-1.12.2-2.12.0.115.jar",
+   "projectID": 74072,
+   "required": true
+  },
+  {
+   "desc": "mantle",
+   "fileID": 2671124,
+   "filename": "Mantle-1.12-1.3.3.42.jar",
+   "projectID": 74924,
+   "required": true
+  },
+  {
+   "desc": "thermalexpansion",
+   "fileID": 2669257,
+   "filename": "ThermalExpansion-1.12.2-5.5.3.41-universal.jar",
+   "projectID": 69163,
+   "required": true
+  },
+  {
+   "desc": "industrial-craft",
+   "fileID": 2669612,
+   "filename": "industrialcraft-2-2.8.111-ex112.jar",
+   "projectID": 242638,
+   "required": true
+  },
+  {
+   "desc": "natura",
+   "fileID": 2658980,
+   "filename": "natura-1.12.2-4.3.2.66.jar",
+   "projectID": 74120,
+   "required": true
+  },
+  {
+   "desc": "botania",
+   "fileID": 2677096,
+   "filename": "Botania-r1.10-360.jar",
+   "projectID": 225643,
+   "required": true
+  },
+  {
+   "desc": "baubles",
+   "fileID": 2518667,
+   "filename": "Baubles-1.12-1.5.2.jar",
+   "projectID": 227083,
+   "required": true
+  },
+  {
+   "desc": "ftb-utilities",
+   "fileID": 2680753,
+   "filename": "FTBUtilities-5.4.0.84.jar",
+   "projectID": 237102,
+   "required": true
+  },
+  {
+   "desc": "ftblib",
+   "fileID": 2680751,
+   "filename": "FTBLib-5.4.1.85.jar",
+   "projectID": 237167,
+   "required": true
+  },
+  {
+   "desc": "unidict",
+   "fileID": 2652588,
+   "filename": "UniDict-1.12.2-2.9.2.jar",
+   "projectID": 244258,
+   "required": true
+  },
+  {
+   "desc": "wanionlib",
+   "fileID": 2651482,
+   "filename": "WanionLib-1.12.2-2.2.jar",
+   "projectID": 253043,
+   "required": true
+  },
+  {
+   "desc": "bibliocraft",
+   "fileID": 2574880,
+   "filename": "BiblioCraft[v2.4.5][MC1.12.2].jar",
+   "projectID": 228027,
+   "required": true
+  },
+  {
+   "desc": "traverse",
+   "fileID": 2613657,
+   "filename": "Traverse-1.12.2-1.6.0-69.jar",
+   "projectID": 267769,
+   "required": true
+  },
+  {
+   "desc": "hwyla",
+   "fileID": 2568751,
+   "filename": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "projectID": 253449,
+   "required": true
+  },
+  {
+   "desc": "jei",
+   "fileID": 2680018,
+   "filename": "jei_1.12.2-4.14.4.267.jar",
+   "projectID": 238222,
+   "required": true
+  },
+  {
+   "desc": "inventory-tweaks",
+   "fileID": 2670367,
+   "filename": "InventoryTweaks-1.64-dev.146.jar",
+   "projectID": 223094,
+   "required": true
+  },
+  {
+   "desc": "railcraft",
+   "fileID": 2672397,
+   "filename": "railcraft-12.0.0-beta-5.jar",
+   "projectID": 51195,
+   "required": true
+  },
+  {
+   "desc": "tatw",
+   "fileID": 2585616,
+   "filename": "Tatw-1.12.2-1.0.1.2.b27.jar",
+   "projectID": 263980,
+   "required": true
+  },
+  {
+   "desc": "aroma1997core",
+   "fileID": 2676868,
+   "filename": "Aroma1997Core-1.12.2-2.0.0.2.b164.jar",
+   "projectID": 223735,
+   "required": true
+  },
+  {
+   "desc": "xaeros-minimap",
+   "fileID": 2665012,
+   "filename": "Xaeros_Minimap_1.16_Forge_1.12.jar",
+   "projectID": 263420,
+   "required": true
+  },
+  {
+   "desc": "iron-chests",
+   "fileID": 2670493,
+   "filename": "ironchest-1.12.2-7.0.59.842.jar",
+   "projectID": 228756,
+   "required": true
+  },
+  {
+   "desc": "simplelogic-gates",
+   "fileID": 2604821,
+   "filename": "SimpleLogic-Gates-0.5.5.0.jar",
+   "projectID": 289316,
+   "required": true
+  },
+  {
+   "desc": "charset-lib",
+   "fileID": 2626374,
+   "filename": "Charset-Lib-0.5.5.6.jar",
+   "projectID": 284523,
+   "required": true
+  },
+  {
+   "desc": "simplelogic-wires",
+   "fileID": 2604819,
+   "filename": "SimpleLogic-Wires-0.5.5.0.jar",
+   "projectID": 298029,
+   "required": true
+  },
+  {
+   "desc": "mcmultipart",
+   "fileID": 2615930,
+   "filename": "MCMultiPart-2.5.3.jar",
+   "projectID": 239431,
+   "required": true
+  },
+  {
+   "desc": "tis-3d",
+   "fileID": 2605696,
+   "filename": "TIS-3D-MC1.12.2-1.5.0.34.jar",
+   "projectID": 238603,
+   "required": true
+  },
+  {
+   "desc": "plethora-peripherals",
+   "fileID": 2608297,
+   "filename": "plethora-1.12.2-1.1.13.jar",
+   "projectID": 248425,
+   "required": true
+  },
+  {
+   "desc": "random-psideas",
+   "fileID": 2659183,
+   "filename": "rpsideas-2.1.5.jar",
+   "projectID": 302313,
+   "required": true
+  },
+  {
+   "desc": "psi",
+   "fileID": 2678401,
+   "filename": "Psi-r1.1-72.jar",
+   "projectID": 241665,
+   "required": true
+  },
+  {
+   "desc": "autoreglib",
+   "fileID": 2677092,
+   "filename": "AutoRegLib-1.3-26.jar",
+   "projectID": 250363,
+   "required": true
+  },
+  {
+   "desc": "shadowfacts-forgelin",
+   "fileID": 2640952,
+   "filename": "Forgelin-1.8.2.jar",
+   "projectID": 248453,
+   "required": true
+  },
+  {
+   "desc": "librarianlib",
+   "fileID": 2613851,
+   "filename": "librarianlib-1.12.2-4.15.jar",
+   "projectID": 252910,
+   "required": true
+  },
+  {
+   "desc": "thermal-innovation",
+   "fileID": 2669259,
+   "filename": "ThermalInnovation-1.12.2-0.3.2.11-universal.jar",
+   "projectID": 291737,
+   "required": true
+  },
+  {
+   "desc": "nuclearcraft-mod",
+   "fileID": 2663947,
+   "filename": "NuclearCraft-2.13e--1.12.2.jar",
+   "projectID": 226254,
+   "required": true
+  },
+  {
+   "desc": "chisel",
+   "fileID": 2619468,
+   "filename": "Chisel-MC1.12.2-0.2.1.35.jar",
+   "projectID": 235279,
+   "required": true
+  },
+  {
+   "desc": "ctm",
+   "fileID": 2642375,
+   "filename": "CTM-MC1.12.2-0.3.3.22.jar",
+   "projectID": 267602,
+   "required": true
+  },
+  {
+   "desc": "better-builders-wands",
+   "fileID": 2668846,
+   "filename": "BetterBuildersWands-1.12.2-0.13.0.267-dc89c58.jar",
+   "projectID": 238403,
+   "required": true
+  },
+  {
+   "desc": "rftools",
+   "fileID": 2672513,
+   "filename": "rftools-1.12-7.61.jar",
+   "projectID": 224641,
+   "required": true
+  },
+  {
+   "desc": "mcjtylib",
+   "fileID": 2660396,
+   "filename": "mcjtylib-1.12-3.1.1.jar",
+   "projectID": 233105,
+   "required": true
+  },
+  {
+   "desc": "foamfix-for-minecraft",
+   "fileID": 2638380,
+   "filename": "foamfix-0.10.3-1.12.2.jar",
+   "projectID": 278494,
+   "required": true
+  },
+  {
+   "desc": "betterfps",
+   "fileID": 2483393,
+   "filename": "BetterFps-1.4.8.jar",
+   "projectID": 229876,
+   "required": true
+  },
+  {
+   "desc": "vanillafix",
+   "fileID": 2639533,
+   "filename": "VanillaFix-1.0.10-99.jar",
+   "projectID": 292785,
+   "required": true
+  },
+  {
+   "desc": "skyblocks",
+   "fileID": 2529898,
+   "filename": "Skyblocks-0.2.0-alpha-1.12.2.jar",
+   "projectID": 255568,
+   "required": true
+  },
+  {
+   "desc": "rftools-power",
+   "fileID": 2660170,
+   "filename": "rftoolspower-1.12-1.1.2.jar",
+   "projectID": 290209,
+   "required": true
+  },
+  {
+   "desc": "compact-machines",
+   "fileID": 2677353,
+   "filename": "compactmachines3-1.12.2-3.0.15-b249.jar",
+   "projectID": 224218,
+   "required": true
+  },
+  {
+   "desc": "capability-adapter",
+   "fileID": 2575182,
+   "filename": "capabilityadapter-1.0.1.jar",
+   "projectID": 281657,
+   "required": true
+  },
+  {
+   "desc": "quark",
+   "fileID": 2677108,
+   "filename": "Quark-r1.5-146.jar",
+   "projectID": 243121,
+   "required": true
+  },
+  {
+   "desc": "openblocks-elevator",
+   "fileID": 2678581,
+   "filename": "ElevatorMod-1.12.2-1.3.8.jar",
+   "projectID": 250832,
+   "required": true
+  },
+  {
+   "desc": "future-mc",
+   "fileID": 2681747,
+   "filename": "future-mc-0.1.0.jar",
+   "projectID": 310059,
+   "required": true
+  },
+  {
+   "desc": "opencomputers",
+   "fileID": 2670112,
+   "filename": "OpenComputers-MC1.12.2-1.7.4.153.jar",
+   "projectID": 223008,
+   "required": true
+  },
+  {
+   "desc": "opensecurity",
+   "fileID": 2680548,
+   "filename": "OpenSecurity-MC1.12.2-1.0-22.jar",
+   "projectID": 231687,
+   "required": true
+  },
+  {
+   "desc": "silk-spawners-forge-edition",
+   "fileID": 2679253,
+   "filename": "silkspawners-1.8.1.03.jar",
+   "projectID": 273555,
+   "required": true
+  },
+  {
+   "desc": "iitemrenderer-reborn",
+   "fileID": 2677156,
+   "filename": "RenderItem-Dynamic-0.5.jar",
+   "projectID": 314995,
+   "required": true
+  },
+  {
+   "desc": "evilnotchlib",
+   "fileID": 2681601,
+   "filename": "EvilNotchLib-1.2.3-PreRelease11.jar",
+   "projectID": 290581,
+   "required": true
+  },
+  {
+   "desc": "mc-classwriter",
+   "fileID": 2677348,
+   "filename": "mc-classwriter-1.2.jar",
+   "projectID": 314955,
+   "required": true
+  },
+  {
+   "desc": "thermallogistics",
+   "fileID": 2678680,
+   "filename": "thermallogistics-0.2-17.jar",
+   "projectID": 313298,
+   "required": true
+  },
+  {
+   "desc": "torcherino",
+   "fileID": 2661356,
+   "filename": "torcherino-7.6.jar",
+   "projectID": 236794,
+   "required": true
+  },
+  {
+   "desc": "redwoods",
+   "fileID": 2676604,
+   "filename": "Redwoods-1.12-1.2.0.jar",
+   "projectID": 314574,
+   "required": true
+  }
+ ],
+ "manifestType": "minecraftModpack",
+ "manifestVersion": 1,
+ "minecraft": {
+  "modLoaders": [
+   {
+    "id": "forge-14.23.5.2768",
+    "primary": true
+   }
+  ],
+  "version": "1.12.2"
+ },
+ "name": "the-poorly-named-modpack",
+ "version": "0.0.1"
+}
