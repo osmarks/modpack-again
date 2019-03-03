@@ -414,34 +414,6 @@
    "required": true
   },
   {
-   "desc": "silk-spawners-forge-edition",
-   "fileID": 2679253,
-   "filename": "silkspawners-1.8.1.03.jar",
-   "projectID": 273555,
-   "required": true
-  },
-  {
-   "desc": "iitemrenderer-reborn",
-   "fileID": 2677156,
-   "filename": "RenderItem-Dynamic-0.5.jar",
-   "projectID": 314995,
-   "required": true
-  },
-  {
-   "desc": "evilnotchlib",
-   "fileID": 2681601,
-   "filename": "EvilNotchLib-1.2.3-PreRelease11.jar",
-   "projectID": 290581,
-   "required": true
-  },
-  {
-   "desc": "mc-classwriter",
-   "fileID": 2677348,
-   "filename": "mc-classwriter-1.2.jar",
-   "projectID": 314955,
-   "required": true
-  },
-  {
    "desc": "thermallogistics",
    "fileID": 2678680,
    "filename": "thermallogistics-0.2-17.jar",
