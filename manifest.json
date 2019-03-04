@@ -433,6 +433,13 @@
    "filename": "Redwoods-1.12-1.2.0.jar",
    "projectID": 314574,
    "required": true
+  },
+  {
+   "desc": "thaumcraft",
+   "fileID": 2629023,
+   "filename": "Thaumcraft-1.12.2-6.1.BETA26.jar",
+   "projectID": 223628,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
