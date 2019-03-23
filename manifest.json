@@ -351,13 +351,6 @@
    "required": true
   },
   {
-   "desc": "skyblocks",
-   "fileID": 2529898,
-   "filename": "Skyblocks-0.2.0-alpha-1.12.2.jar",
-   "projectID": 255568,
-   "required": true
-  },
-  {
    "desc": "rftools-power",
    "fileID": 2660170,
    "filename": "rftoolspower-1.12-1.1.2.jar",
