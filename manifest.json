@@ -433,6 +433,13 @@
    "filename": "Thaumcraft-1.12.2-6.1.BETA26.jar",
    "projectID": 223628,
    "required": true
+  },
+  {
+   "desc": "ender-storage-1-8",
+   "fileID": 2594243,
+   "filename": "EnderStorage-1.12.2-2.4.5.135-universal.jar",
+   "projectID": 245174,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
