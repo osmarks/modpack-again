@@ -57,9 +57,9 @@
    "required": true
   },
   {
-   "desc": "tinkers-construct",
-   "fileID": 2662253,
-   "filename": "TConstruct-1.12.2-2.12.0.115.jar",
+   "desc": "Tinkers Construct",
+   "fileID": 2689863,
+   "filename": "TConstruct-1.12.2-2.12.0.123.jar",
    "projectID": 74072,
    "required": true
   },
@@ -106,16 +106,16 @@
    "required": true
   },
   {
-   "desc": "ftb-utilities",
-   "fileID": 2680753,
-   "filename": "FTBUtilities-5.4.0.84.jar",
+   "desc": "FTB Utilities",
+   "fileID": 2689765,
+   "filename": "FTBUtilities-5.4.0.88.jar",
    "projectID": 237102,
    "required": true
   },
   {
-   "desc": "ftblib",
-   "fileID": 2680751,
-   "filename": "FTBLib-5.4.1.85.jar",
+   "desc": "FTB Library",
+   "fileID": 2690211,
+   "filename": "FTBLib-5.4.1.93.jar",
    "projectID": 237167,
    "required": true
   },
@@ -155,9 +155,9 @@
    "required": true
   },
   {
-   "desc": "jei",
-   "fileID": 2680018,
-   "filename": "jei_1.12.2-4.14.4.267.jar",
+   "desc": "Just Enough Items (JEI)",
+   "fileID": 2691438,
+   "filename": "jei_1.12.2-4.15.0.271.jar",
    "projectID": 238222,
    "required": true
   },
@@ -169,9 +169,9 @@
    "required": true
   },
   {
-   "desc": "railcraft",
-   "fileID": 2672397,
-   "filename": "railcraft-12.0.0-beta-5.jar",
+   "desc": "Railcraft",
+   "fileID": 2687757,
+   "filename": "railcraft-12.0.0.jar",
    "projectID": 51195,
    "required": true
   },
@@ -183,16 +183,16 @@
    "required": true
   },
   {
-   "desc": "aroma1997core",
-   "fileID": 2676868,
-   "filename": "Aroma1997Core-1.12.2-2.0.0.2.b164.jar",
+   "desc": "Aroma1997Core",
+   "fileID": 2690354,
+   "filename": "Aroma1997Core-1.12.2-2.0.0.2.b165.jar",
    "projectID": 223735,
    "required": true
   },
   {
-   "desc": "xaeros-minimap",
-   "fileID": 2665012,
-   "filename": "Xaeros_Minimap_1.16_Forge_1.12.jar",
+   "desc": "Xaero's Minimap",
+   "fileID": 2687046,
+   "filename": "Xaeros_Minimap_1.16.2_Forge_1.12.jar",
    "projectID": 263420,
    "required": true
   },
@@ -246,9 +246,9 @@
    "required": true
   },
   {
-   "desc": "random-psideas",
-   "fileID": 2659183,
-   "filename": "rpsideas-2.1.5.jar",
+   "desc": "Random PSIdeas",
+   "fileID": 2685246,
+   "filename": "rpsideas-2.2.2.jar",
    "projectID": 302313,
    "required": true
   },
@@ -288,9 +288,9 @@
    "required": true
   },
   {
-   "desc": "nuclearcraft-mod",
-   "fileID": 2663947,
-   "filename": "NuclearCraft-2.13e--1.12.2.jar",
+   "desc": "NuclearCraft",
+   "fileID": 2691320,
+   "filename": "NuclearCraft-2.14c-1.12.2.jar",
    "projectID": 226254,
    "required": true
   },
@@ -309,9 +309,9 @@
    "required": true
   },
   {
-   "desc": "better-builders-wands",
-   "fileID": 2668846,
-   "filename": "BetterBuildersWands-1.12.2-0.13.0.267-dc89c58.jar",
+   "desc": "Better Builder's Wands",
+   "fileID": 2691084,
+   "filename": "BetterBuildersWands-1.12.2-0.13.2.271-5997513.jar",
    "projectID": 238403,
    "required": true
   },
@@ -386,9 +386,9 @@
    "required": true
   },
   {
-   "desc": "future-mc",
-   "fileID": 2681747,
-   "filename": "future-mc-0.1.0.jar",
+   "desc": "Future MC",
+   "fileID": 2687763,
+   "filename": "future-mc-0.1.1.jar",
    "projectID": 310059,
    "required": true
   },
@@ -421,9 +421,9 @@
    "required": true
   },
   {
-   "desc": "redwoods",
-   "fileID": 2676604,
-   "filename": "Redwoods-1.12-1.2.0.jar",
+   "desc": "Redwoods",
+   "fileID": 2690966,
+   "filename": "Redwoods-1.12-1.2.1.jar",
    "projectID": 314574,
    "required": true
   },
@@ -439,6 +439,19 @@
    "fileID": 2594243,
    "filename": "EnderStorage-1.12.2-2.4.5.135-universal.jar",
    "projectID": 245174,
+   "required": true
+  },
+  {
+   "desc": "instantunify",
+   "fileID": 2578325,
+   "filename": "instantunify-1.12.2-1.1.2.jar",
+   "projectID": 277047,
+   "required": true
+  },
+  {
+   "desc": "openbackup",
+   "fileID": 2676453,
+   "projectID": 307448,
    "required": true
   }
  ],
