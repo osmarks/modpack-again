@@ -468,6 +468,13 @@
    "filename": "Apotheosis-1.12.2-1.8.7.jar",
    "projectID": 313970,
    "required": true
+  },
+  {
+   "desc": "placebo",
+   "fileID": 2694382,
+   "filename": "Placebo-1.12.2-1.6.0.jar",
+   "projectID": 283644,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
