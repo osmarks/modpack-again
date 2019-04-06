@@ -43,9 +43,9 @@
    "required": true
   },
   {
-   "desc": "cc-tweaked",
-   "fileID": 2679513,
-   "filename": "cc-tweaked-1.12.2-1.81.1.jar",
+   "desc": "CC: Tweaked",
+   "fileID": 2694855,
+   "filename": "cc-tweaked-1.12.2-1.82.0.jar",
    "projectID": 282001,
    "required": true
   },
@@ -58,15 +58,15 @@
   },
   {
    "desc": "Tinkers Construct",
-   "fileID": 2689863,
-   "filename": "TConstruct-1.12.2-2.12.0.123.jar",
+   "fileID": 2693496,
+   "filename": "TConstruct-1.12.2-2.12.0.135.jar",
    "projectID": 74072,
    "required": true
   },
   {
-   "desc": "mantle",
-   "fileID": 2671124,
-   "filename": "Mantle-1.12-1.3.3.42.jar",
+   "desc": "Mantle",
+   "fileID": 2693483,
+   "filename": "Mantle-1.12-1.3.3.49.jar",
    "projectID": 74924,
    "required": true
   },
@@ -107,8 +107,8 @@
   },
   {
    "desc": "FTB Utilities",
-   "fileID": 2689765,
-   "filename": "FTBUtilities-5.4.0.88.jar",
+   "fileID": 2693508,
+   "filename": "FTBUtilities-5.4.0.90.jar",
    "projectID": 237102,
    "required": true
   },
@@ -156,8 +156,8 @@
   },
   {
    "desc": "Just Enough Items (JEI)",
-   "fileID": 2691438,
-   "filename": "jei_1.12.2-4.15.0.271.jar",
+   "fileID": 2694170,
+   "filename": "jei_1.12.2-4.15.0.273.jar",
    "projectID": 238222,
    "required": true
   },
@@ -204,23 +204,23 @@
    "required": true
   },
   {
-   "desc": "simplelogic-gates",
-   "fileID": 2604821,
-   "filename": "SimpleLogic-Gates-0.5.5.0.jar",
+   "desc": "SimpleLogic Gates",
+   "fileID": 2695680,
+   "filename": "SimpleLogic-Gates-0.5.5.7.jar",
    "projectID": 289316,
    "required": true
   },
   {
-   "desc": "charset-lib",
-   "fileID": 2626374,
-   "filename": "Charset-Lib-0.5.5.6.jar",
+   "desc": "Charset Lib",
+   "fileID": 2695684,
+   "filename": "Charset-Lib-0.5.5.7.jar",
    "projectID": 284523,
    "required": true
   },
   {
-   "desc": "simplelogic-wires",
-   "fileID": 2604819,
-   "filename": "SimpleLogic-Wires-0.5.5.0.jar",
+   "desc": "SimpleLogic Wires",
+   "fileID": 2695683,
+   "filename": "SimpleLogic-Wires-0.5.5.7.jar",
    "projectID": 298029,
    "required": true
   },
@@ -330,9 +330,9 @@
    "required": true
   },
   {
-   "desc": "foamfix-for-minecraft",
-   "fileID": 2638380,
-   "filename": "foamfix-0.10.3-1.12.2.jar",
+   "desc": "FoamFix for Minecraft",
+   "fileID": 2695388,
+   "filename": "foamfix-0.10.5-1.12.2.jar",
    "projectID": 278494,
    "required": true
   },
@@ -400,9 +400,9 @@
    "required": true
   },
   {
-   "desc": "opensecurity",
-   "fileID": 2680548,
-   "filename": "OpenSecurity-MC1.12.2-1.0-22.jar",
+   "desc": "OpenSecurity",
+   "fileID": 2695865,
+   "filename": "OpenSecurity-MC1.12.2-1.0-23.jar",
    "projectID": 231687,
    "required": true
   },
@@ -451,7 +451,15 @@
   {
    "desc": "openbackup",
    "fileID": 2676453,
+   "filename": "openbackup-1.12.2-0.1.1.2.jar",
    "projectID": 307448,
+   "required": true
+  },
+  {
+   "desc": "portality",
+   "fileID": 2641377,
+   "filename": "portality-1.12.2-1.2.2-14.jar",
+   "projectID": 291493,
    "required": true
   }
  ],
