@@ -387,8 +387,8 @@
   },
   {
    "desc": "Future MC",
-   "fileID": 2687763,
-   "filename": "future-mc-0.1.1.jar",
+   "fileID": 2696146,
+   "filename": "future-mc-0.1.2c.jar",
    "projectID": 310059,
    "required": true
   },
@@ -460,6 +460,13 @@
    "fileID": 2641377,
    "filename": "portality-1.12.2-1.2.2-14.jar",
    "projectID": 291493,
+   "required": true
+  },
+  {
+   "desc": "apotheosis",
+   "fileID": 2692841,
+   "filename": "Apotheosis-1.12.2-1.8.7.jar",
+   "projectID": 313970,
    "required": true
   }
  ],
