@@ -496,6 +496,13 @@
    "filename": "plustic-7.0.6.1.jar",
    "projectID": 260327,
    "required": true
+  },
+  {
+   "desc": "simply-jetpacks-2",
+   "fileID": 2690100,
+   "filename": "SimplyJetpacks2-1.12.2-2.2.11.64.jar",
+   "projectID": 251792,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
